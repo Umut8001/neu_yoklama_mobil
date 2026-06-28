@@ -21,3 +21,5 @@ cd neu_yoklama_sistemi
 flutter pub get
 flutter run
 ```
+## 📄 Proje Raporu
+Detaylı dokümantasyon için [proje raporuna](23100011059_UmutSadıkoglu.docx) bakabilirsiniz.
