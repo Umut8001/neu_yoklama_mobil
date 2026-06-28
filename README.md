@@ -22,4 +22,4 @@ flutter pub get
 flutter run
 ```
 ## 📄 Proje Raporu
-Detaylı dokümantasyon için [proje raporuna](23100011059_UmutSadıkoglu.docx) bakabilirsiniz.
+Detaylı dokümantasyon için [proje raporuna](23100011059_UmutSadıkoglu.pdf) bakabilirsiniz.
